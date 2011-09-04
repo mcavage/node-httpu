@@ -1,13 +1,13 @@
 {
   "name": "httpu",
   "description": "HTTP over Unix Domain Sockets",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "repository": {
     "type": "git",
     "url": "git://github.com/mcavage/node-httpu.git"
   },
   "author": "Mark Cavage <mcavage@gmail.com> (http://www.joyent.com)",
-  "main": "lib/httpu.js",
+  "main": "lib/index.js",
   "engines": {
     "node": ">=0.4"
   }
