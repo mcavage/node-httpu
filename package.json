@@ -1,7 +1,7 @@
 {
   "name": "httpu",
   "description": "HTTP over Unix Domain Sockets",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": {
     "type": "git",
     "url": "git://github.com/mcavage/node-httpu.git"
